@@ -1,5 +1,5 @@
 # ClashOfBlocks
- Editor Scripting will help designers to produce bunch ogf level very quickly./n 
+ Editor Scripting will help designers to produce bunch of level very quickly.
  Watch video and realize the concepts.
 
 
